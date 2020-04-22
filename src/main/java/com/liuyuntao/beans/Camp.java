@@ -1,7 +1,7 @@
 package com.liuyuntao.beans;
 
 public class Camp {
-	private Integer cid;
+	private Integer cid; 
 	private String cname;
 	public Camp() {
 		super();
